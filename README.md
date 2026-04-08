@@ -1,1 +1,3 @@
 Docker Sample Voting App to use as a DevOps and QA practice project, focused on containerizing a multi-service application, integrating end-to-end testing with Playwright, and implementing CI/CD pipelines using GitHub Actions. The project demonstrates real-world workflows such as building and running services with Docker Compose, validating user interactions through automated Playwright tests, and ensuring code quality and reliability via continuous integration. It serves as my practical learning and portfolio project for mastering containerization, test automation, and modern CI/CD practices.
+
+A write up of how to work with the project using Docker and Docker Compose: https://ekira.medium.com/docker-compose-simplified-with-a-walkthrough-b81041705d85
